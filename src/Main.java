@@ -4,6 +4,7 @@ public class Main {
        NikitaBasket.add("Кола",150);
        NikitaBasket.add("Чебупицца", 200);
        NikitaBasket.add("Сникерс", 80);
+       NikitaBasket.add("Молоко", 100);
 
         NikitaBasket.print("Содержимое корзины Никиты: ");
        NikitaBasket.clear();
